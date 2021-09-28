@@ -48,6 +48,7 @@ button {
   margin-top: 0rem;
   display: block;
   border: 2px solid white;
+  cursor: pointer;
 }
 
 .output-feild {
